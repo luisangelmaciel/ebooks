@@ -1,0 +1,728 @@
+YOUR LOGO
+
+5
+APLICACIONES
+PRACTICAS DE
+CHATGPT
+
+yourwebsite.com
+
+5 APLICACIONES PRÁCTICAS DE CHAT GPT
+Cómo sacarle partido a la inteligencia artificial
+
+Hola, soy Jon Hernández, y si has llegado hasta aquí, es probable que ya me
+conozcas de mi canal de YouTube, @la_inteligencia_artificial.
+
+Si no es así, permíteme presentarme:
+No soy un experto en Inteligencia Artificial, ni programador, ni tengo un máster en
+la materia. Pero, como tú, soy una persona normal que está viendo cómo la
+Inteligencia Artificial, y más específicamente los modelos de lenguaje como Chat
+GPT, están cambiando nuestro mundo a una velocidad vertiginosa.
+Soy curioso, autodidacta y, cuando algo me interesa, me vuelco en cuerpo y alma.
+Por eso, me paso más de 4 horas diarias aprendiendo sobre IA y todas las
+increíbles aplicaciones que esta tecnología nos ofrece.
+En mi canal, cada lunes comparto un video con las últimas novedades en IA, las
+noticias más interesantes, las aplicaciones más revolucionarias etc.. Y los
+miércoles suelo hacer otro vídeo profundizando en un tema más concreto.
+Entonces, ¿de qué trata este eBook? Bueno, mi filosofía es que la IA, y en este
+caso los modelos de lenguaje como Chat GPT, deben ser útiles en nuestro día a
+día. No es solo una tecnología futurista que vemos en las películas; es algo que ya
+está aquí, y que tiene aplicaciones prácticas que podemos empezar a usar hoy
+mismo.
+En este eBook, te presentaré cinco ejemplos concretos de cómo puedes aplicar
+Chat GPT en tu vida diaria o en tu negocio para obtener resultados reales. Pero
+eso es solo la punta del iceberg. Hay literalmente cientos de maneras de utilizar
+esta tecnología, y mi objetivo es que, con estos ejemplos, te sientas inspirado para
+encontrar nuevas y emocionantes formas de incorporar Chat GPT en tu vida.
+
+Bienvenido a la Inteligencia Artificial…
+
+Índice
+Generación de Artículos y contenido SEO
+Generación de Pack de promts
+
+Generación tus propios exámenes de contenido
+Elaborando un plan de redes
+Un entrenador personal bolsillo
+
+Y si quieres saber más…
+
+01
+
+12
+
+18
+
+24
+29
+35
+
+Generación de decenas de artículos
+Cómo sacarle partido a la inteligencia artificial
+
+La receta para atraer clientes
+Que tengas un producto o servicio que es la bomba, no basta para tener un
+negocio que funcione.
+Tienes que encontrar a la gente que de verdad lo quiere comprar…
+Y ahí es donde la cosa se complica.
+Porque vamos a ser sinceros, la publicidad de toda la vida ya no está
+funcionando como antes.
+La gente está hasta las narices de anuncios que les saltan por todos lados y de
+técnicas de venta que parecen sacadas de una película de mafiosos.
+Así que si no puedes llevar tu producto al cliente…
+¿Cómo haces para que el cliente venga a ti?
+Aquí es donde se pone interesante la cosa
+Te presento el Inbound Marketing, una estrategia que está arrasando…
+Porque funciona de verdad.
+
+El Inbound Marketing es un enfoque que se centra en atraer a los clientes
+proporcionándoles contenido útil y relevante.
+En lugar de ir tras ellos con anuncios y mensajes de ventas, les ofreces
+valor que los hace venir a ti.
+
+Generación de decenas de artículos
+Cómo sacarle partido a la inteligencia artificial
+
+¿Cómo hacer que Chat GPT te ayude con esto?
+Mira, una vez que entiendes lo que es el Inbound marketing, el juego cambia
+por completo.
+Ahora tu reto es pensar, "vale, ¿y qué le ofrezco yo a este cliente potencial que
+tengo delante?“
+Porque vamos a ver, si tienes una floristería, está claro que vendes flores…
+Pero si lo que quieres es enganchar a la gente que se va a casar para
+venderles tus paquetes florales, no vas a llegar a muchos clientes hablando de
+lo que tú sabes
+Es decir sobre dalias y orquídeas.
+Imagínate la cantidad de novios y novias que podrías tener en la órbita de tu
+negocio si tu contenido habla sobre anillos, vestidos, peinados o esos zapatos
+perfectos para el día de su boda.
+Tu alcance se dispara
+Y lo mejor es que, aunque no busquen flores, a la hora de la verdad, las van a
+necesitar.
+Y aquí viene la gran pregunta:
+¿Cómo narices genero contenido de calidad sobre todo esto si no soy un
+experto?
+Y más aún
+¿Cómo lo hago sin que se me vaya la vida en ello?
+
+Generación de decenas de artículos
+Cómo sacarle partido a la inteligencia artificial
+
+La Solución con Chat GPT
+Bueno, aquí es donde entra el crack de Chat GPT.
+Imagínate tener a tu propio redactor que puede cubrir desde "Los secretos para
+elegir tu vestido de novia" hasta "Los destinos top para una luna de miel de
+película".
+Y lo mejor, este asistente no solo escribe, sino que lo hace pensando en SEO.
+O sea, te ayuda a subir como la espuma en los rankings de Google y a atraer a
+esos clientes que ni sabían que necesitaban tus servicios.
+
+El Prompt
+En este caso usaremos dos prompts
+
+Prompt 1:
+Actúa como un experto bloguero que además es muy bueno optimizando sus
+artículos para SEO. Créame una lista de los 10 temas más relevantes para atraer
+[novias que planean su boda] a mi página web. El objetivo es crear decenas de
+artículos que hagan que mi web atraiga a este target mediante estos contenidos.
+Una vez hayas localizado esos 10 temas, analízalos y define cuáles son los 3 que
+más clientes potenciales podrán atraer, y cuando los tengas, proponme otros 7
+más que estén a la altura de esos 3 que has definido como los mejores.
+
+Prompt 2:
+Sigue actuando como un excelente bloguero y créame un artículo de 800 palabras
+sobre el primer tema que has definido. Este artículo debe ser excelente en atraer
+al cliente target a mi web, y además estar totalmente optimizado para SEO. Al
+final del artículo, de forma sutil, introduce al cliente al valor de [las flores en una
+boda], y cómo nuestra empresa puede ayudarles en eso. Diles que, si quieren
+más información, solo tienen que dejarnos su email y les escribiremos para
+analizar sus necesidades y ayudarles con lo que necesiten.
+
+Generación de decenas de artículos
+Cómo sacarle partido a la inteligencia artificial
+
+Aquí lo que estamos haciendo es pedirle a Chat GPT que se ponga las pilas y
+actúe como si fuera un bloguero top con conocimientos en SEO.
+Es como tener a un experto en marketing en tu equipo, pero sin tener que
+hacer entrevistas de trabajo.
+Y ojo,
+No solo le estamos pidiendo temas al tuntún.
+Queremos que identifique los que realmente van a conectar con nuestra
+audiencia, en este caso, con las novias en plena fase de organización de su
+gran día.
+Y no solo eso
+Le estamos pidiendo que se lo curre:
+que nos dé 10 temas, que elija los 3 mejores y luego que nos dé otros 7 que
+sean igual de buenos.
+Vamos
+No se lo estamos poniendo fácil
+Pero es que queremos lo mejor de lo mejor.
+
+Generación de decenas de artículos
+Cómo sacarle partido a la inteligencia artificial
+
+Resultado con el primer promt
+
+Generación de decenas de artículos
+Cómo sacarle partido a la inteligencia artificial
+
+Resultado con el segundo promt
+
+Generación de decenas de artículos
+Cómo sacarle partido a la inteligencia artificial
+
+Conclusión
+Vamos a hacer un repaso rápido.
+Lo que hemos visto aquí es una demostración en toda regla de cómo Chat GPT
+puede ser un aliado brutal en tu estrategia de inbound marketing.
+Lo mejor de todo es que puedes customizar los prompts a tu medida.
+¿Te acuerdas cuando hablábamos de novias y bodas?
+Pues lo mismo podríamos estar hablando de chavales que quieren meterse en el
+mundo del desarrollo de videojuegos.
+Es tan fácil como cambiar un par de palabras en los prompts, (las que te he puesto
+entre corchetes).
+Ahora, un consejo.
+Sé que te puede salir la vena optimizadora y decir "oye, ¿y si le pido que me saque
+los 10 artículos de una tirada?".
+Pues ojo aquí, porque, aunque suena tentador, la cosa tiene su truco.
+Chat GPT tiene un límite de palabras o tokens que puede manejar de una sola vez.
+Así que, si te pasas pidiendo, te arriesgas a que el contenido pierda calidad.
+Así que ya sabes.
+La jugada maestra es pedirle un artículo, echarle un vistazo, hacer los ajustes que
+hagan falta y luego seguir con el siguiente.
+De esta manera, te aseguras de que cada artículo sea un auténtico imán para
+atraer a tus clientes potenciales.
+Y ahí lo tienes, una manera efectiva y super rápida de poner tu inbound marketing
+a funcionar a pleno rendimiento.
+
+Generación de decenas de artículos
+Cómo sacarle partido a la inteligencia artificial
+
+Prompts sin limites
+Si has estado atento a las últimas tendencias, habrás notado que hay una
+avalancha de ofertas de "packs de prompts" inundando el mercado.
+Parece que todos quieren venderte sus "secretos mágicos" para sacarle el
+máximo provecho a herramientas como Chat GPT.
+Pero aquí hay una verdad que he descubierto:
+muchos de estos vendedores simplemente usan Chat GPT para crear esos
+packs y luego los venden como si fueran oro.
+No tengo nada en contra de ganar dinero, pero si puedo enseñarte a hacerlo tú
+mismo, a tu manera y sin costos adicionales…
+¿por qué no hacerlo?
+Además
+¿sabes lo satisfactorio que es tener el control total sobre lo que produces y
+adaptarlo exactamente a tus necesidades?
+Así que, en este caso práctico, te voy a demostrar que no necesitas comprar
+esos packs.
+Te enseñare cómo puedes ser el maestro detrás de las cortinas, creando tus
+propios packs de prompts con Chat GPT.
+Porque, al fin y al cabo
+¿por qué gastar dinero en algo que puedes hacer tú mismo, y de una manera
+incluso mejor?
+
+Generar packs de prompts
+Cómo sacarle partido a la inteligencia artificial
+
+¿Cómo hacer que Chat GPT te ayude con esto?
+Las herramientas a nuestra disposición son simplemente asombrosas.
+Chat GPT es uno de esos caballos de batalla que no solo puede escribir ensayos,
+responder preguntas o componer poesía.
+Puede ser esa herramienta mágica que necesitas para generar esos packs de
+prompts.
+Pero ¿sabes qué es lo mejor?
+No necesitas ser un genio de la programación ni invertir cientos de horas para
+sacarle partido.
+Solo necesitas saber cómo preguntar.
+Chat GPT puede generar cientos de prompts en cuestión de minutos.
+Y no solo eso
+Puedes personalizarlo para que se adapte exactamente a lo que necesitas, ya sea
+para una landing de venta, posts de Instagram, o copys de email.
+Así que, antes de sacar la tarjeta de crédito para comprar el próximo pack de
+prompts de moda…
+¿por qué no invertir un poco de tiempo y aprender a hacerlo tú mismo?
+Te garantizo que no solo ahorrarás dinero, sino que descubrirás el poder de
+ChatGPT.
+
+Generar packs de prompts
+Cómo sacarle partido a la inteligencia artificial
+
+La Solución con Chat GPT
+Ahora que sabes que no tienes que gastar tu dinero en packs de prompts, llega
+el momento de la acción.
+Vamos a crear nuestros propios packs, personalizados a nuestras necesidades
+Y lo mejor de todo, sin coste alguno.
+Si quieres enfocarte en algo específico como la "generación de copys para
+marketing", Chat GPT puede ser tu mejor aliado.
+Es como tener un equipo de expertos en marketing a tu disposición, esperando
+tus indicaciones.
+
+El Prompt
+Actúa como un experto en ingeniería de prompts que realmente conoce todos los
+secretos de ChatGPT y cómo comunicarse con él. Créame una tabla en la que
+haya dos columnas, una con la función del prompt y otra con el prompt. Quiero
+que rellenes [30] filas de prompts sobre [generación de copys para marketing] y
+me lo entregues en un archivo XLSX. Quiero que cada prompt sea muy elaborado
+y no una simple frase, y que repases para ver que sean realmente útiles para la
+creación del contenido en cuestión. Pone entre [ ] las palabras que deban editarse
+del prompt según el proposito.
+
+Generar packs de prompts
+Cómo sacarle partido a la inteligencia artificial
+
+Con el prompt que acabamos de ver, básicamente le he dicho a Chat GPT que
+se ponga en modo 'experto en prompts' y nos eche una mano creando una
+tabla chulísima, lista para usar.
+Quiero que esta tabla nos muestre funciones y prompts, pero centrados en el
+arte de hacer copys para marketing.
+Así, no solo nos da respuestas ordenadas, sino que nos facilita un recurso que
+podemos usar siempre que queramos
+¡O incluso compartir con colegas si nos sentimos generosos!
+Es increíble pensar en cuánto tiempo y esfuerzo nos ahorramos con esta
+herramienta.
+Imagina tener que pensar en cada uno de estos prompts desde cero…
+o peor, pagar por ellos.
+Chat GPT realmente nos está brindando un valor insuperable.
+Al final del día, es como tener a tu propio asistente de marketing en el bolsillo,
+listo para echar un cable cuando lo necesites.
+¡Y encima nos lo entrega en un Excel listo para usar!
+
+Generar packs de prompts
+Cómo sacarle partido a la inteligencia artificial
+
+Resultados
+
+Generar packs de prompts
+Cómo sacarle partido a la inteligencia artificial
+
+Resultados
+
+Generar packs de prompts
+Cómo sacarle partido a la inteligencia artificial
+
+Conclusión
+Vamos a ser claros.
+Estos packs de prompts se están vendiendo como si fueran el secreto mejor
+guardado.
+Pero ¿realmente lo son?
+Es como si alguien te vendiera recetas de cocina cuando tú ya tienes la
+habilidad de crear tus propios platos maestros.
+Lo que quiero que entiendas es que, aunque estos packs pueden tener su lugar,
+no hay nada como entender y dominar la herramienta.
+Chat GPT es impresionante, y si sabes cómo hablarle, cómo pedirle lo que
+quieres, te dará exactamente eso.
+Los packs de prompts... bueno, son como atajos.
+Y sí, a veces los atajos son útiles.
+Pero si realmente quieres dominar el juego, tienes que entender el juego.
+Tienes que meterte en la cancha y jugar.
+Así que, antes de gastar dinero en esos packs que te prometen el mundo…
+¿Por qué no te tomas el tiempo para aprender cómo sacarle el máximo partido
+a Chat GPT?
+Porque cuando dominas la herramienta, cuando realmente entiendes cómo
+funciona.
+Tú creas los prompts.
+Y eso, amigo mío, es empoderamiento puro."
+
+Hacer exámenes sobre contenido
+Cómo sacarle partido a la inteligencia artificial
+
+Examinarte es una muy buena forma de aprender
+Vivimos en una época donde el aprendizaje no se detiene.
+Sea un curso online, un libro que acabas de leer o ese video educativo que
+viste el otro día.
+Pero ¿cómo saber si realmente comprendiste lo que aprendiste?
+Más allá de la sensación de "creo que lo entendí", necesitas una forma de
+poner a prueba ese conocimiento.
+Y, si has intentado hacerlo por ti mismo, sabrás que no es tarea fácil.
+Ahora
+Imagina una herramienta que, basándose en ese contenido, te genera un
+examen personalizado en minutos.
+Sí, estás entendiendo bien.
+Chat GPT puede ser esa herramienta revolucionaria en tu proceso de
+aprendizaje.
+Vamos a sumergirnos en cómo esto puede cambiar tu forma de estudiar.
+
+Si eres profesor o das cursos online, Chat GPT es BRUTAL. Olvídate de
+invertir horas en crear evaluaciones; esta herramienta lo hace por ti en
+minutos.
+¡A mí me ahorra unas 10h por cada curso del que tengo que crear exámenes!
+
+Hacer exámenes sobre contenido
+Cómo sacarle partido a la inteligencia artificial
+
+¿Cómo hacer que Chat GPT te ayude con esto?
+Auto examinarse es muy complicado, y no siempre tienes a alguien que este haciendo el
+mismo contenido que tu para poder hacer un examen cruzado
+No nos engañemos
+La mayoría de las veces creemos haber aprendido algo y no es así.
+Si creas contenido para otros, ya seas profesor o divulgador, sabrás que hacer los
+exámenes supone verse el contenido parándolo donde haya algo interesante para
+apuntarnos que deberíamos preguntar sobre eso
+Pero además luego tenemos que pensar en las posibles respuestas
+Y oye
+La correcta es fácil, pero pensar en otras opciones que suenen plausibles, pero sean
+incorrectas es un trabajazo.
+Chat GPT es buenísimo interpretando contenidos, y como los interpreta tan bien, puede
+hacer las preguntas clave de una forma muy sencilla.
+La verdad es que este es el uso que más dinero me ha ahorrado por ahora, en mi
+academia online creamos muchos cursos y hacer los exámenes era muy tedioso y llevaba
+más de 10h de alguien de mi equipo conseguir hacerlo bien. A
+hora en unos segundos lo tenemos y solo tenemos que verificar que las respuestas
+correctas realmente lo son.
+
+Hacer exámenes sobre contenido
+Cómo sacarle partido a la inteligencia artificial
+
+La solución con chat GPT
+Chat GPT hará una lectura del contenido, y después generará el examen.
+Es importante entender que Chat GPT a día de hoy solo “entiende” texto, por lo
+que tendremos que darle TRANSCRIPCIONES del contenido y no el contenido
+en sí.
+Seguro que muy pronto lo harán multimodal y podremos darle directamente el
+video
+Pero por ahora necesitamos tener ese contenido en texto.
+Hay cientos de webs que te hacen una transcripción de un video gratis, aunque
+cualquier software de edición de video te vale también.
+
+El Prompt
+En este caso usaremos dos prompts
+
+Prompt 1:
+Analiza el contenido de esta transcripción. Necesito que me hagas [10] preguntas
+de examen tipo test con 3 posibles soluciones. Tras cada pregunta esperarás a
+mi respuesta y me indicarás si fue correcta o no. Si fue correcta pasarás a la
+siguiente pregunta si fue incorrecta me lo indicarás y me pedirás que lo intente de
+nuevo, explicándome porque mi respuesta no es correcta. Al finalizar las
+preguntas me darás una valoración final con el resultado de mi examen.
+
+Este prompt te sirve si te quieres auto examinar.
+Arrancará una función que hará que Chat GPT te examine, y al final te dará una
+valoración.
+
+Hacer exámenes sobre contenido
+Cómo sacarle partido a la inteligencia artificial
+
+Si lo que quieres es crear un examen para otros
+Te dejo otro prompt que te dará no solo las preguntas y respuestas si no que te
+indicará también cual es la correcta
+Haciendo mucho más fácil la corrección de exámenes.
+
+Prompt 2:
+Analiza el contenido de esta transcripción. Necesito que me hagas [10] preguntas
+de examen tipo test con 3 posibles soluciones. Me indicarás también cual es la
+respuesta correcta. Evita hacer preguntas sobre la persona que imparte el
+contenido o sobre temas irrelevantes. Pregunta sobre el tema principal de este
+contenido como si de un examen se tratase y que para aprobarlo se debiese
+demostrar haber entendido lo explicado en el contenido
+
+Hacer exámenes sobre contenido
+Cómo sacarle partido a la inteligencia artificial
+
+Resultados
+
+Hacer exámenes sobre contenido
+Cómo sacarle partido a la inteligencia artificial
+
+Conclusión
+¿Esto es la leche no te parece?
+Quizá tu ni te formas ni formas a nadie
+Pero este ejemplo de uso de Chat GPT te permite ver claramente lo que puede
+hacer este LLM tan potente.
+Si puede leerse una clase entera y sacar preguntas de los temas más
+relevantes es que realmente lo ha entendido a la perfección
+Y si lo entiende bien es que te puede ayudar de verdad en cualquier cosa.
+Cuando tengas un paper científico que quieras leer, pásaselo y dile que te lo
+explique
+Cuando tengas un manual de instrucciones de cualquier cosa, pásaselo y
+pregúntale lo que quieras saber
+Cuando tengas un contrato o cualquier documento legal, pásaselo y dile que te
+cuente los puntos más relevantes…
+La capacidad de entender de Chat GPT es posiblemente su punto más fuerte
+Ño convierte en una herramienta tremendamente útil para nuestro día a día.
+
+Elaboración de plan de redes
+Cómo sacarle partido a la inteligencia artificial
+
+Ya no tienes que ser instagramer, tiktoker y todo
+lo demás…
+Hoy en día hay tantas redes sociales que yo ya no sé si hago shorts, reels o
+stories.
+Mi caso es muy curioso porque ODIO las redes sociales
+Y aquí estoy, todo el día charlando en ellas.
+La verdad es que por eso me gusta YouTube
+Es la menos social de las redes, donde simplemente enchufo la cámara y me
+pongo a hablar de las cosas que me interesan por si le interesan a alguien más
+Nunca he usado estrategias de redes ni nada por el estilo porque se me hace
+muy complicado saber que poner y cuándo ponerlo…
+Simplemente me parece un coñazo el plan de redes.
+
+¡Este ejemplo lo puedes usar para convertirlo en un negocio! Te voy a
+enseñar lo fácil que es crear planes de redes para gente como yo que
+no nos gustan las redes y cobrarnos por ello!
+
+Elaboración de plan de redes
+Cómo sacarle partido a la inteligencia artificial
+
+¿Cómo hacer que Chat GPT te ayude con esto?
+A pesar de que ChatGPT no tiene la información totalmente actualizada y solo
+tiene entrenamiento hasta 2021
+(aunque un pajarito me ha dicho que ya lo han extendido hasta finales de 2022)
+Y eso suponga que no esté entrenado en los últimos algoritmos
+No nos engañemos
+Las redes funcionan más o menos igual.
+Al final se trata de establecer una estrategia de comunicación para la empresa o
+servicio, y proveer de los textos, las imágenes, los hashtags…
+Y sobre todo cuándo y cuánto publicar.
+Chat GPT en su entrenamiento tiene miles y miles de posts de blogs donde se
+habla de las mejores estrategias, de hilos de Reddit donde se discuten técnicas
+de social media, y cientos de registros de posts de redes sociales para analizar.
+Podríamos decir que Chat GPT es lo más cercano a un experto en redes que
+vamos a encontrar
+Y por lo tanto creo que su criterio es bastante fiable a la hora de elaborar un
+plan de redes.
+De nuevo por tema de limitación de tokens, te recomiendo que no le pidas todo
+el año de golpe, pídele semana a semana, y si tienes claro cuanto quieres
+publicar coméntaselo también para que haga un plan de redes a medida a tu
+situación.
+Por supuesto cuanto más contexto le des, mejores resultados sacarás.
+
+Elaboración de plan de redes
+Cómo sacarle partido a la inteligencia artificial
+
+La Solución con Chat GPT
+Le vamos a pedir que nos cree el plan de redes y nos lo entregue como
+queramos, se lo puedes pedir en Excel, en csv, o en un Word…
+Pero creo que en este caso es más fácil que nos haga una tabla nos la muestre
+en pantalla y le podamos hacer un pantallazo del contenido de cada semana.
+Esta solución es muy practica para negocios simples que requieren una
+comunicación en redes
+Si quieres algo más elaborado tendrás que darle mucho contexto.
+
+El Prompt
+Prompt:
+Actúa como un experto en redes sociales y algoritmos de crecimiento y elabórame
+el plan de redes de [Instagram] para [Zapatería Juan, una zapatería de un pueblo
+de 20mil habitantes en la provincia de Madrid que vende principalmente calzado
+elegante para fiesta tanto de hombre como de mujer] el objetivo es llegar a más
+gente y crecer en la red social para [que la gente conozca las promociones que se
+hacen y mantenga la tienda en la cabeza de la gente cuando piensen en
+comprarse unos zapatos de fiesta] Entrégamelo en formato tabla que incluya todo
+lo necesario para hacer el post, texto, hashtags y descripción de la imagen que lo
+acompaña en formato prompt para IAs de creación de imagen como Dall-e. El
+plan debe contente Posts, stories y reels y debes ser tu quien defina que cantidad
+y con qué frecuencia es lo más adecuado para conseguir resultados cuanto antes.
+Hazme una semana de lunes a domingo con los posts, stories y reels que
+consideres necesarios.
+
+Elaboración de plan de redes
+Cómo sacarle partido a la inteligencia artificial
+
+Aquí como ves vamos más a fondo, es un prompt muy elaborado que Chat GPT
+agradecerá ya que realmente le explica lo que tiene que hacer y cómo hacerlo,
+pero le delega todo el proceso de toma de decisiones a él.
+De nuevo
+Le pedimos que actúe como experto
+Esto lo que hace es acotar el entrenamiento de Chat GPT a los temas
+relacionados con esa disciplina y hacerle mucho más efectivo.
+Además
+Le pedimos la descripción de imagen en formato prompt
+Por lo que podríamos apoyarnos de otras IA para generar el contenido visual en
+lugar de pedirle al cliente que nos de imágenes.
+Esto no siempre funcionará
+Pero por ejemplo en restaurantes, tiendas y comercios, no es tan relevante el
+producto en sí, como el concepto.
+
+Elaboración de plan de redes
+Cómo sacarle partido a la inteligencia artificial
+
+Resultados
+
+Conclusión
+¿Cómo lo ves?
+Increíble…
+en unos pocos segundos Chat GPT ha
+creado el plan de redes de una semana
+que cualquier community manager
+envidiaría.
+Si esto se lo muestras a alguien que
+tenga un negocio y no este metido en el
+mundillo audiovisual, de redes o no muy
+puesto en internet en general, le alegras
+el día
+Y muchos pagarían por ello.
+De hecho
+Esto puede ser un modelo de negocio
+brutal, si te cuesta apenas unos minutos
+hacer todo el contenido de redes de una
+semana, imagínate cuantos clientes a la
+vez puedes gestionar.
+Ahora mismo tienes que irte a otro sitio a
+hacer las imágenes con IA…
+Pero OPENAI ya ha anunciado la
+integración de DALL-E 3 en Chat GPT
+Por lo que directamente nos podrá hacer
+las imágenes también.
+
+Un entrenador personal en el bolsillo
+Cómo sacarle partido a la inteligencia artificial
+
+Por fin podrás ir a entrenar sin un tío cachas
+metiéndote caña todo el rato…
+Mira, todos hemos estado allí.
+Te apuntas al gimnasio con toda la ilusión, y de repente…
+Ahí está
+El entrenador con músculos hasta en las cejas, gritándote mientras intentas
+hacer esa última repetición.
+¿Y si te dijera que hay una forma de obtener consejos de entrenamiento
+personalizados, sin el aliento de alguien en tu nuca y sin la presión de esos
+bíceps intimidantes?
+¡Bienvenido al mundo de Chat GPT!
+Tu entrenador personal virtual
+Siempre dispuesto a ayudarte
+Y lo mejor de todo: no te gritará si decides saltarte un día.
+
+En este ejemplo voy a usar un plugin de fitness que utilizo yo mismo,
+pero hay muchos. Los plugins de Chat GPT son como herramientas
+que él puede usar para hacer más cosas.
+
+Un entrenador personal en el bolsillo
+Cómo sacarle partido a la inteligencia artificial
+
+¿Cómo hacer que Chat GPT te ayude con esto?
+Empieza el día y sientes esa chispa de motivación.
+Has decidido que es hora de cambiar, de mejorar, de llevar tu condición física a
+otro nivel.
+Pero, como siempre, el dilema está en cómo hacerlo.
+¿Más pesas?
+¿Más cardio?
+¿Cómo estructurar una rutina que realmente funcione para ti?
+Aquí es donde Chat GPT, potenciado por un plugin especializado en fitness, te
+tiende la mano.
+No es una simple conversación
+Es una consultoría personalizada.
+Indícale tus metas, ya sea tonificar, aumentar masa muscular o mejorar tu
+resistencia.
+Háblale de tus limitaciones, si es que tienes alguna, y del tiempo que estás
+dispuesto a invertir.
+En minutos, Chat GPT te entregará un plan de entrenamiento adaptado a ti.
+Y no solo eso
+Te dará guías detalladas para cada ejercicio, asegurando que cada movimiento
+cuente y reduciendo el riesgo de lesiones.
+La era de las dudas en el gimnasio ha terminado.
+Con Chat GPT, tienes a un entrenador personal en tu bolsillo, listo para guiarte
+en cada paso de tu viaje fitness.
+
+Un entrenador personal en el bolsillo
+Cómo sacarle partido a la inteligencia artificial
+
+La Solución con Chat GPT
+La integración de "PlanFit" con Chat GPT es un perfecto ejemplo de cómo la
+inteligencia artificial puede potenciarse con herramientas especializadas.
+Cuando le haces una consulta relacionada con fitness a Chat GPT, el plugin
+"PlanFit" entra en acción.
+Esta conexión permite que Chat GPT acceda a una base de datos más extensa
+y específica sobre entrenamientos, rutinas y mejores prácticas en el mundo del
+fitness.
+No solo interpreta tus necesidades basándose en tu lenguaje natural…
+Sino que, gracias a "PlanFit", ofrece respuestas más precisas y detalladas.
+Es como si Chat GPT tuviera un entrenador personal de fitness susurrándole al
+oído la mejor recomendación para ti.
+Esta sinergia entre Chat GPT y "PlanFit" garantiza que obtengas el mejor
+consejo y guía de entrenamiento posible, adaptado a tus especificaciones y
+necesidades.
+
+El Prompt
+Soy [contexto sobre ti] y mi objetivo es [tu objetivo de fitness con todo
+detalle] elabórame un plan de fitness para esta semana, iré [tu disponibilidad
+y tiempo que vas a dedicar al ejercicio]. Ten en cuenta [más contexto si lo
+hubiese, como lesiones, o cosas especificas]. Hazme también un menú para
+esta semana de desayuno comida y cena que pueda ayudarme a conseguir
+mis objetivos. Entrégamelo en dos tablas donde en la de ejercicio tenga el
+día, los ejercicios de ese día, las repeticiones y pesos recomendados para
+mí y el enlace de planfit para ver cómo hacer ese ejercicio y en la segunda
+las dietas. Supervisa el plan que proponga el plugin de planfit para
+asegurarte que es lo óptimo para mis objetivos y haz los cambios que creas
+necesarios para que sea perfecto.
+
+Un entrenador personal en el bolsillo
+Cómo sacarle partido a la inteligencia artificial
+
+Vamos a entender este prompt.
+Empezando con "Soy [contexto sobre ti]", nos das una radiografía rápida de
+quién eres
+Como cuando te presentas a alguien por primera vez.
+Al especificar "mi objetivo es [tu objetivo de fitness con todo detalle]", pones las
+cartas sobre la mesa sobre lo que buscas.
+La parte de "Ten en cuenta [más contexto]" es vital
+Es como decirle "oye, ten cuidado con mi rodilla lesionada".
+Finalmente
+Al pedir un menú y que se supervise el plan del plugin, estás buscando la
+perfección.
+En pocas palabras
+Con este prompt, quieres una solución completa, personalizada y optimizada.
+
+Un entrenador personal en el bolsillo
+Cómo sacarle partido a la inteligencia artificial
+
+Resultados
+
+Un entrenador personal en el bolsillo
+Cómo sacarle partido a la inteligencia artificial
+
+Conclusión
+Tras sumergirme en el mundo de la inteligencia artificial, he notado algo curioso
+con Chat GPT
+Cada vez es más autónomo y versátil por sí solo.
+Sin embargo, aunque muchas funcionalidades ya las hace de forma nativa, no
+hay que subestimar el poder de algunos plugins.
+Estos no son simplemente aditivos, son verdaderas joyas que potencian y
+especializan aún más a Chat GPT en ciertos campos.
+Es como tener un experto en nichos específicos al alcance de tu mano.
+Así que…
+Si bien Chat GPT es increíblemente capaz por sí mismo, te recomiendo echar
+un vistazo a esos plugins "joya".
+Te aseguro que algunos te dejarán con la boca abierta.
+
+5 APLICACIONES PRÁCTICAS DE CHAT GPT
+Cómo sacarle partido a la inteligencia artificial
+
+Después de todo lo que te he contado en este eBook, ojalá hayas captado una
+cosa
+Chat GPT no es moco de pavo.
+No estamos hablando de un juguetito tecnológico más
+Es como si tuvieras a ese amigo siempre dispuesto a echarte un cable.
+Y si le sabes hablar, este colega te va a dejar con la boca abierta con las
+respuestas y soluciones que te brinda.
+Hemos repasado algunas maneras de cómo este amigo puede ser un crack en
+tu día a día
+Pero ¿te cuento un secreto?
+Lo que has visto es solo el aperitivo.
+Chat GPT tiene en su manga un montón de ases que ni te imaginas.
+Ya sea para darte un empujoncito en el trabajo, para aprender algo nuevo o
+para despejar esas dudas cotidianas
+Chat GPT se va a convertir en ese colega al que no vas a querer perder de
+vista.
+Saber pedirle cosas a Chat GPT, como te he mostrado, es un puntazo, pero…
+¿y si te digo que puedes programar a Chat GPT para que te pregunte
+exactamente lo que necesita saber y te dé respuestas aún más alucinantes?
+¿Qué pensarías si te cuento que hay técnicas como el Tree of Thoughts o las
+de los sombreros que potencian las respuestas de Chat GPT hasta hacerlas un
+800% mejores?
+
+5 APLICACIONES PRÁCTICAS DE CHAT GPT
+Cómo sacarle partido a la inteligencia artificial
+
+Y ojo, que Chat GPT es solo la punta del iceberg.
+Tenemos a monstruos como Midjourney y Stable Diffusion para imágenes
+Heygen para crear clones que flipas
+Invideo para vídeos que te dejan pegado a la pantalla
+Elevenlabs para que tu voz suene por doquier…
+y un montón más que están cambiando el juego día tras día.
+Sé que todo esto suena a ciencia ficción y es complicado estar al tanto de todo.
+Por eso estoy montando un grupazo privado para compartir cómo sacarle todo
+el jugo a la IA.
+Si te parece interesante formar parte del grupo privado…
+Clica en la imagen que te dejo aquí debajo
+Y si no…
+Nos vemos en el próximo video de YouTube :)
+
+
