@@ -1,0 +1,135 @@
+%!Adobe-FontList 1.16
+%Locale:0x2c0a
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri
+FamilyName:Calibri
+StyleName:Regular
+FullName:Calibri
+MenuName:Calibri
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:\\parana\Phases3\Hubspot\Projects\2015\08\175 - 5 Ebook Templates\25_From_2nd_DTP\Template-5\Template-5-IND\Document fonts\calibri.ttf
+DataFormat:sfntData
+FileLength:811820
+FileModTime:1443010038
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Calibri
+NameArray:0,Win,1,Calibri
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri-Bold
+FamilyName:Calibri
+StyleName:Bold
+FullName:Calibri Bold
+MenuName:Calibri
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:\\parana\Phases3\Hubspot\Projects\2015\08\175 - 5 Ebook Templates\25_From_2nd_DTP\Template-5\Template-5-IND\Document fonts\calibrib.ttf
+DataFormat:sfntData
+FileLength:849340
+FileModTime:1443010038
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Calibri Bold
+NameArray:0,Win,1,Calibri
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CenturyGothic
+FamilyName:Century Gothic
+StyleName:Regular
+FullName:Century Gothic
+MenuName:Century Gothic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:\\parana\Phases3\Hubspot\Projects\2015\08\175 - 5 Ebook Templates\25_From_2nd_DTP\Template-5\Template-5-IND\Document fonts\GOTHIC.TTF
+DataFormat:sfntData
+FileLength:137568
+FileModTime:1348938692
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Century Gothic
+NameArray:0,Win,1,Century Gothic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CenturyGothic-Bold
+FamilyName:Century Gothic
+StyleName:Bold
+FullName:Century Gothic Bold
+MenuName:Century Gothic
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:\\parana\Phases3\Hubspot\Projects\2015\08\175 - 5 Ebook Templates\25_From_2nd_DTP\Template-5\Template-5-IND\Document fonts\GOTHICB.TTF
+DataFormat:sfntData
+FileLength:129676
+FileModTime:1348938692
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Century Gothic Bold
+NameArray:0,Win,1,Century Gothic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:\\parana\Phases3\Hubspot\Projects\2015\08\175 - 5 Ebook Templates\25_From_2nd_DTP\Template-5\Template-5-IND\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1361542580
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Museo-300
+FamilyName:Museo
+StyleName:300
+FullName:Museo 300
+MenuName:Museo 300
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:\\parana\Phases3\Hubspot\Projects\2015\08\175 - 5 Ebook Templates\25_From_2nd_DTP\Template-5\Template-5-IND\Document fonts\Museo300-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:127096
+FileModTime:1447862414
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Museo 300
+NameArray:0,Win,1,Museo 300
+NameArray:0,Win,16,Museo
+%EndFont
+
